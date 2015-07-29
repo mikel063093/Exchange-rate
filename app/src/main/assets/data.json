@@ -1,0 +1,22 @@
+[
+  {
+    "from": "GBP",
+    "to": "USD",
+    "rate": "1.5"
+  },
+  {
+    "from": "EUR",
+    "to": "USD",
+    "rate": "1.25"
+  },
+  {
+    "from": "GBP",
+    "to": "EUR",
+    "rate": "1.2"
+  },
+  {
+    "from": "GBP",
+    "to": "COP",
+    "rate": "0.7"
+  }
+]

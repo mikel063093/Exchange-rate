@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <layer-list>
+            <item>
+                <shape>
+                    <gradient android:angle="270" android:centerColor="#ffffffff" android:endColor="#ffffffff" android:startColor="#ffffffff" />
+
+                    <stroke android:width="2dp" android:color="@color/accent" />
+
+                    <corners android:radius="2dp" />
+
+                    <padding android:bottom="4dp" android:left="4dp" android:right="14dp" android:top="4dp" />
+                </shape>
+            </item>
+            <item>
+                <bitmap android:antialias="true" android:gravity="center|right" android:src="@drawable/ic_chevron_down_black_24dp" />
+                // you can use any other image here, instead of default_holo_dark_am
+            </item>
+        </layer-list>
+    </item>
+
+</selector>
